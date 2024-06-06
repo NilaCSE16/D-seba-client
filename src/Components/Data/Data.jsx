@@ -48,11 +48,11 @@ export const adminMenu = [
     path: "/users",
     icon: <FaUserAlt />,
   },
-  {
-    name: "Profile",
-    path: "/profile",
-    icon: <FaUserAlt />,
-  },
+  // {
+  //   name: "Profile",
+  //   path: "/profile",
+  //   icon: <FaUserAlt />,
+  // },
   {
     name: "Logout",
     // path: "/login",
